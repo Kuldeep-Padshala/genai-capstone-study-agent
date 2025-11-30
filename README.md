@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-AI%20Study%20Assistant-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Category-Agents%20for%20Good-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LLM-Multi--Agent-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Project-AI%20Study%20Assistant-blue?style=for-the-badge"><t>
+  <img src="https://img.shields.io/badge/Category-Agents%20for%20Good-green?style=for-the-badge"><t>
+  <img src="https://img.shields.io/badge/LLM-Multi--Agent-orange?style=for-the-badge"><t>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"><t>
 </p>
 
 
