@@ -1,9 +1,28 @@
+<h1 align="center">Smart AI Study Assistant — Multi-Agent LLM System</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-AI%20Study%20Assistant-blue?style=for-the-badge"><t>
-  <img src="https://img.shields.io/badge/Category-Agents%20for%20Good-green?style=for-the-badge"><t>
-  <img src="https://img.shields.io/badge/LLM-Multi--Agent-orange?style=for-the-badge"><t>
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"><t>
+  <strong>A Generative AI Capstone Project for the Agents for Good Track</strong><br>
+  LLM Agents • Parallel Agents • Memory • Logging • Long-running Tasks
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-AI%20Study%20Assistant-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Category-Agents%20for%20Good-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM-Multi--Agent-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Kuldeep-Padshala/smart-ai-study-assistant?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/Kuldeep-Padshala/smart-ai-study-assistant?style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/Kuldeep-Padshala/smart-ai-study-assistant?style=flat-square">
+</p>
+
+---
+
+<h3 align="center">🎓 A complete offline multi-agent learning companion powered by simulated LLM intelligence.</h3>
+
+---
 
 
 # Smart AI Study Assistant — Multi-Agent LLM System  
