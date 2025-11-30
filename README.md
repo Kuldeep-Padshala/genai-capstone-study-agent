@@ -193,5 +193,5 @@ MIT License
 ---
 
 ## 👤 Author
-Your Name  
-[Your GitHub Profile](#)
+Kuldeep Padshala 
+[Your GitHub Profile](https://github.com/Kuldeep-Padshala)
