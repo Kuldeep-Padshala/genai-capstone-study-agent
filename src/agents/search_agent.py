@@ -11,10 +11,10 @@ class ContentSearchAgent:
         time.sleep(0.4)
         log.info(f"[SearchAgent] Finished search for: {topic}")
 
-        playlist = "https://www.youtube.com/playlist?list=PLzJwCIvZuAFY-jBJS0-LlFB0dP469vsMG"
+        playlist = "https://www.youtube.com/@KulDeepLearns"
         return [
             Resource(
-                title=f"{topic} — Dr Abhishek Playlist",
+                title=f"{topic} — Kuldeep's Playlist",
                 url=playlist,
                 summary=f"A curated playlist covering {topic}.",
                 relevance=0.95
