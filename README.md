@@ -193,5 +193,5 @@ MIT License
 ---
 
 ## 👤 Author
-Kuldeep Padshala 
+Kuldeep Padshala<br>
 [Your GitHub Profile](https://github.com/Kuldeep-Padshala)
