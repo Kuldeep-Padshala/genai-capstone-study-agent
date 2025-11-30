@@ -67,3 +67,98 @@ StudyCoordinator
 ├── LongRunningAgent
 └── Session Service
 </pre>
+
+---
+
+## 📁 Repository Structure
+
+<pre>
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── notebook/
+│ └── smart_ai_study_assistant.ipynb
+├── src/
+│ ├── agents/
+│ │ ├── llm_agent.py
+│ │ ├── search_agent.py
+│ │ ├── flashcard_agent.py
+│ │ └── coordinator.py
+│ ├── memory/
+│ │ └── session_service.py
+│ ├── models/
+│ │ ├── learning_objective.py
+│ │ ├── resource.py
+│ │ └── flashcard.py
+│ └── long_running_agent.py
+└── assets/
+└── architecture_diagram.png
+</pre>
+
+---
+
+## 📄 Notebook
+
+The full implementation and demo run are inside:
+
+
+This notebook includes:
+- step-by-step logic  
+- agent orchestration  
+- parallel execution demo  
+- session memory handling  
+- observability via logging  
+- long-running agent pause/resume demonstration  
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3  
+- Dataclasses  
+- concurrent.futures  
+- Logging (Observability)  
+- Mock LLM Tool  
+- In-memory session service  
+
+No external API calls — fully offline.
+
+---
+
+## 🧪 Demo Output
+
+The demo generates a full study plan across 5 topics:
+
+- curated resources  
+- LLM-powered flashcards  
+- quizzes  
+- prerequisites  
+- key concepts  
+- practice problems  
+- session memory  
+- agent logs  
+- long-running agent output  
+
+This demonstrates a working multi-agent system in action.
+
+---
+
+## 🔮 Future Enhancements
+
+- Integrate real LLMs (Gemini/GPT)
+- Add vector memory (FAISS/Chroma)
+- Build a recommendation engine for next best topics
+- Implement spaced repetition algorithms
+- Add FastAPI backend or a Streamlit UI
+- Build a prerequisite graph to generate learning paths
+
+---
+
+## 📜 License
+MIT License
+
+---
+
+## 👤 Author
+Your Name  
+[Your GitHub Profile](#)
