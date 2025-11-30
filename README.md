@@ -105,21 +105,27 @@ StudyCoordinator
 ├── requirements.txt
 ├── notebook/
 │ └── smart_ai_study_assistant.ipynb
-├── src/
-│ ├── agents/
-│ │ ├── llm_agent.py
-│ │ ├── search_agent.py
-│ │ ├── flashcard_agent.py
-│ │ └── coordinator.py
-│ ├── memory/
-│ │ └── session_service.py
-│ ├── models/
-│ │ ├── learning_objective.py
-│ │ ├── resource.py
-│ │ └── flashcard.py
-│ └── long_running_agent.py
-└── assets/
-└── architecture_diagram.png
+|  
+src/
+│
+├── models/
+│   ├── learning_objective.py
+│   ├── resource.py
+│   └── flashcard.py
+│
+├── memory/
+│   └── session_service.py
+│
+├── agents/
+│   ├── llm_agent.py
+│   ├── search_agent.py
+│   ├── flashcard_agent.py
+│   └── coordinator.py
+│
+├── long_running_agent.py
+│
+└── main.py
+
 </pre>
 
 ---
