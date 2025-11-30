@@ -57,6 +57,7 @@ Simulates:
 
 ## 🏛 Architecture Diagram
 
+<pre>
 User
 ↓
 StudyCoordinator
@@ -65,3 +66,4 @@ StudyCoordinator
 ├── FlashcardAgent
 ├── LongRunningAgent
 └── Session Service
+</pre>
