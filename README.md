@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Kuldeep-Padshala/smart-ai-study-assistant?style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/Kuldeep-Padshala/smart-ai-study-assistant?style=flat-square">
-  <img src="https://img.shields.io/github/repo-size/Kuldeep-Padshala/smart-ai-study-assistant?style=flat-square">
+  <img src="https://img.shields.io/github/languages/top/Kuldeep-Padshala/genai-capstone-study-agent?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/Kuldeep-Padshala/genai-capstone-study-agent?style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/Kuldeep-Padshala/genai-capstone-study-agent?style=flat-square">
 </p>
 
 ---
