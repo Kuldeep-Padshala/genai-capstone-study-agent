@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-AI%20Study%20Assistant-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Category-Agents%20for%20Good-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM-Multi--Agent-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/yourusername/smart-ai-study-assistant?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/yourusername/smart-ai-study-assistant?style=flat-square">
+</p>
+
+
 # Smart AI Study Assistant — Multi-Agent LLM System  
 *A Generative AI Capstone Project (Agents for Good — Education)*
 
